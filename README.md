@@ -3,6 +3,6 @@ ercp
 
 Eclipse RCP 4.3 Demo Project
 
-Демо проект для моих статей 
+Р”РµРјРѕ РїСЂРѕРµРєС‚ РґР»СЏ РјРѕРёС… СЃС‚Р°С‚РµР№ 
 
-Первая: http://mrdekk.illi-studio.ru/archives/232
+РџРµСЂРІР°СЏ: http://mrdekk.illi-studio.ru/archives/232
