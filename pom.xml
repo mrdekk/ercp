@@ -17,6 +17,7 @@
 	
 	<modules>
 		<module>gui</module>
+		<module>feature</module>
 	</modules>
 
 	<repositories>
