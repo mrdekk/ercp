@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ru.mrdekk.ercp.feature_1.0.0.qualifier.jar" id="ru.mrdekk.ercp.feature" version="1.0.0.qualifier">
+      <category name="ercp.category"/>
+   </feature>
+   <category-def name="ercp.category" label="mrdekk.ru Eclipse RCP Demo - Update Site">
+      <description>
+         mrdekk.ru Eclipse RCP Demo - Update Site
+      </description>
+   </category-def>
+</site>
